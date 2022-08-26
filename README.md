@@ -12,6 +12,4 @@ Implemented Stochastic Gradient Descent for minimizing the cost function.
 
 Used the model to make recommendations for the user.
 
-Dataset link:
-
-GroupLence. https://grouplens.org/datasets/movielens, 1995.
+Dataset link: https://grouplens.org/datasets/movielens
