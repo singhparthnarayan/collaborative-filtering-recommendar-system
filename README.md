@@ -1,8 +1,8 @@
-# collaborative-filtering-recommendar-system
+# collaborative-filtering-recommender-system
 
 
 Recommender systems are tools for interacting with large and complex information spaces. They provide a personalized view
-of such spaces, prioritizing items likely to be of interest to the user. Personalized recommendations are an important part of many e-commerce and social media applications such as Amazon, Netflix, Pandora, Spotify, Google and Facebook.
+of such information spaces, prioritizing items likely to be of interest to the user. Personalized recommendations are an important part of many e-commerce and social media applications such as Amazon, Netflix, Pandora, Spotify, Google and Facebook.
 
 In this project we provide an example of a movie recommender system with collaborative filtering technique.
 
